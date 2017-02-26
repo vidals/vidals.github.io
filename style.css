@@ -1,0 +1,57 @@
+.text-center{
+	text-align:center;
+}
+p{
+font-size:20px;
+color:#004d1a;
+}
+h2{
+	font-size:45px;
+	color:#004d1a;
+	text-shadow:-1px 0 orange, 0 1px orange, 1px 0 orange, 0 -1px orange;
+	
+}
+h1{
+	font-size:55px;
+	text-shadow:-1px 0 orange, 0 1px orange, 1px 0 orange, 0 -1px orange;
+}
+.header{
+	font-size:35px;
+	color:green;
+	text-shadow:-1px 0 orange, 0 1px orange, 1px 0 orange, 0 -1px orange;
+}
+.btn{
+	border-radius:120px;
+}
+.bg-image{
+	background-size:cover;
+	padding-top: 54px !important;
+	padding-bottom: 100px !important;
+	background-image:url(http://peterdorrell.co.uk/wp-content/uploads/2014/02/slide5.jpg)
+}
+.text-green{
+	color:green;
+	text-shadow:-1px 0 orange, 0 1px orange, 1px 0 orange, 0 -1px orange;
+}
+
+.btn-text{
+	color:green;
+}
+.container{
+background-color:#ffb366;
+}
+.row{
+background-color:#ffb366;
+padding-top: 30px;
+padding-bottom: 30px;
+}
+.top-menu{
+	color:white;
+	background-color:#34495e; 
+}
+
+.small{
+	font-size:12px;
+	color:black;
+
+}
